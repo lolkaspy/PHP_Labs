@@ -1,0 +1,2 @@
+cd img
+convert $1 -quality 60 -resize 100x100 th_$1
